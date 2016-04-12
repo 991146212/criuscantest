@@ -1,2 +1,4 @@
 # criuscantest
-fist repository
+# fist repository
+<?php
+  echo"hello word";
